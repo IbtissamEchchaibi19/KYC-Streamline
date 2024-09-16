@@ -101,6 +101,6 @@ For more see the [front end branch](https://github.com/Hamagistral/TeethSeg/tree
 <a name="contact"></a>
 ## 📨 Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/hamza-elbelghiti/) •
-[Website](https://Hamagistral.me) •
-[Gmail](hamza.lbelghiti@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ibtissam-ech-chaibi/) •
+[Website](https://ibtissamportfolio.netlify.app/) •
+[Gmail](hamza.echchaibi@gmail.com)
