@@ -1,8 +1,4 @@
 <div align="center">
-  <a href="https://teethseg.vercel.app/">
-    <img src="https://github.com/Hamagistral/TeethSeg/assets/66017329/4a5c9cac-9a54-4da3-87a4-ba1af091eba7" alt="Banner" width="720">
-  </a>
-
   <div id="user-content-toc">
     <ul>
       <summary><h1 style="display: inline-block;">KYC-Streamline</h1></summary>
