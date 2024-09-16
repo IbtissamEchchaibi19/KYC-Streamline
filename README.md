@@ -6,8 +6,6 @@
   </div>
   
   <p>KYC system</p>
-    <a href="https://kyc-frontend-c55789bd2cfd.herokuapp.com/" target="_blank">Live Preview</a>
-    🦷
     <a href="https://github.com/Hamagistral/TeethSeg/issues" target="_blank">Request Feature</a>
 </div>
 <br>
@@ -90,9 +88,6 @@ For more see the [front end branch](https://github.com/Hamagistral/TeethSeg/tree
 7. If the images match, proceed to scan your identity card or residence permit directly within the app. However, if you did not access the app via the link sent by an admin or do not belong to the organization, the verification will fail, and you will not be able to proceed.
 8. If verification is successful, you will gain access to the services. If not, you must request a new verification link from the organization if the original one expires.
 <a name="team"></a>
-## 👥 Team
-
-![image](https://github.com/Hamagistral/TeethSeg/assets/66017329/3608dd52-6d3f-4f88-8da8-f3592bc7d42e)
 
 <a name="contact"></a>
 ## 📨 Contact Me
