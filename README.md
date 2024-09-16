@@ -28,7 +28,7 @@
 <a name="introduction"></a>
 ## 🔬 Project Overview
 
-**KYC Verifier** is an advanced system designed to enhance security and user verification through a streamlined process. Developed as a part of a summer internship project, this system integrates several cutting-edge technologies to ensure efficient and reliable user authentication. The KYC Verifier system simplifies the verification of users in various applications, providing a robust solution for managing and validating user identities.
+**KYC Verifier** is an advanced system designed to enhance security and user verification through a streamlined process. Developed as a part of a summer internship project In ** Devtospace ** , this system integrates several cutting-edge technologies to ensure efficient and reliable user authentication. The KYC Verifier system simplifies the verification of users in various applications, providing a robust solution for managing and validating user identities.
 
 ### 🔌 Key Features
 
